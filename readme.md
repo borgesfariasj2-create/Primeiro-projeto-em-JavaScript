@@ -53,4 +53,4 @@ Além do resultado textual, o sistema também altera o **visual da interface** p
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-avaliacao-aluno.git
+   git clone https://github.com/borgesfariasj2-create/Primeiro-projeto-em-JavaScript.git
