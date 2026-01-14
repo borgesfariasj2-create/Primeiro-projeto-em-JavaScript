@@ -13,7 +13,26 @@ O sistema recebe a **nota** e a **frequência** do aluno e, com base em regras p
 - ❌ **Reprovado**
 - 🚫 **Dados inválidos**
 
-Além do resultado textual, o sistema também altera o **visual da interface** para tornar a experiência mais clara e intuitiva.
+Além do resultado textual, o sistema também altera o **visual da interface**, tornando a experiência mais clara e intuitiva para o usuário.
+
+---
+
+## 📷 Screenshots
+
+### Tela inicial
+![Tela inicial](/assets/tela-inicial.png)
+
+### Resultado aprovado
+![Aprovado](/assets/resultado-aprovado.png)
+
+### Resultado recuperação
+![Recuperação](/assets/resultado-recuperacao.png)
+
+### Resultado reprovado
+![Reprovado](/assets/resultado-reprovado.png)
+
+### Dados inválidos
+![Dados inválidos](/assets/dados-invalidos.png)
 
 ---
 
