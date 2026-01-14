@@ -6,7 +6,7 @@ Projeto desenvolvido em **JavaScript** com foco em lógica de programação, man
 
 ## 📌 Sobre o projeto
 
-O sistema recebe a **nota** e a **frequência** do aluno e, com base em regras pré-definidas, retorna a situação final:
+O sistema recebe a **nota** e a **frequência** do aluno(a), com base em regras pré-definidas, retorna a situação final:
 
 - ✅ **Aprovado**
 - ⚠️ **Recuperação**
